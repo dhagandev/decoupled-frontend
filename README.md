@@ -1,3 +1,9 @@
+create-react-app (app name)
+package.json add "proxy": "(location of backend server)"
+Check out what has been modified in App.js
+
+=======================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
